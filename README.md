@@ -32,6 +32,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MONGODB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 
