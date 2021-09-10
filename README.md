@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<center><a href="#"><img width="380" src="i.png" height="380%"/></a></center>
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Souvik</h1>
 <h3>I'm a ML Enthusiast🦾, Open Source Contributor🌏, a new learner🖱</h3>
