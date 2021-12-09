@@ -1,12 +1,12 @@
 <!-- <center><a href="#"><img width="270" src="i.png" height="270%"/></a></center> -->
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Souvik</h1>
-<h3>I'm a ML Enthusiast🦾, Open Source Contributor🌏, a new learner🖱</h3>
+<h3>I'm a Web-Dev Enthusiast🦾, Open Source Contributor🌏, a new learner🖱</h3>
 
 
 ## 🎓 I am currently in 2nd year, B.Tech in Computer Science from IEM,Kolkata
 
-- 🌱 I’m a **Machine Learning** Enthusiast
+- 🌱 I’m a **Block-Chain** Enthusiast
 
 - 👯 I’m looking to contribute more to the **OpenSource Community**
 
