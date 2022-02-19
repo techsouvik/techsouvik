@@ -22,7 +22,7 @@
 
 ---
 
-### Languages
+### Tech Stacks
 
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
