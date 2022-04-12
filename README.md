@@ -4,7 +4,7 @@
 <h3>I'm a Web-Dev Enthusiast🦾, Open Source Contributor🌏, a new learner🖱</h3>
 
 
-## 🎓 I am currently in 2nd year, B.Tech in Computer Science from IEM,Kolkata
+## 🎓 I am a Sophomore at IEM, Kolkata with major in Computer Science
 
 - 🌱 I’m a **Block-Chain** Enthusiast
 
