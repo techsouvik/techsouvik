@@ -1,20 +1,19 @@
 <!-- <center><a href="#"><img width="270" src="i.png" height="270%"/></a></center> -->
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Souvik</h1>
-<h3>I'm a Web-Dev Enthusiast🦾, Open Source Contributor🌏, a new learner🖱</h3>
+<h3>I'm a Backend Developer🦾, currently learning video encoding🌏🖱</h3>
 
 
-## 🎓 I am a Sophomore at IEM, Kolkata with major in Computer Science
+## 🎓 I am an undergrad majoring in Computer Science
 
-- 🌱 I’m a **Block-Chain** Enthusiast
 
 - 👯 I’m looking to contribute more to the **OpenSource Community**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://souvikojha.com)** -->
 
-- 📫 How to reach me **souvikaasds01@gmail.com**
+- 📫 How to reach me **souvikojha707@gmail.com**
 
--  👨‍💻 Currently learning more **Javascript Framekorks** and working on **Cross-Platform Developemnt**.
+-  👨‍💻 Currently learning **Javascript Framekorks** and working on **Cross-Platform Developemnt**.
 
 - ⚡ Fun fact **I love to read story books and watch fictional movies.**
 
@@ -28,7 +27,6 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
@@ -68,7 +66,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/souvik-ojha-3aa70320b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Souvik_1_Ojha"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/SouvikOjha3"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/___souvik_in___/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/souvik.ojha.3388"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
