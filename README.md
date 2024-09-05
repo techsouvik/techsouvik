@@ -11,7 +11,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://souvikojha.com)** -->
 
-- 📫 How to reach me **souvikojha707@gmail.com**
+- 📫 How to reach me **souvikojha404@gmail.com**
 
 -  👨‍💻 Currently learning **Javascript Framekorks** and working on **Cross-Platform Developemnt**.
 
