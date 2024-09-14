@@ -34,8 +34,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 
-<br />
-
 
 ## 🧑🏼‍💻 My Contributions
 
@@ -55,11 +53,9 @@
 
 
 <br/>
-<br/>
 
 <a href="https://github.com/techsouvik/github-readme-activity-graph"><img alt="Souvik Ojha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=techsouvik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
 <br/>
 
 ## Connect with me:
@@ -67,7 +63,7 @@
 
 <a href = "https://www.linkedin.com/in/souvik-ojha-3aa70320b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/SouvikOjha3"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/___souvik_in___/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/souvikojha/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/souvik.ojha.3388"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 
 </p>
