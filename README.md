@@ -4,7 +4,7 @@
 <h3>I'm a Backend Developer🦾, currently exploring different backend technologies🌏🖱</h3>
 
 
-## 🎓 I am an undergrad majoring in Computer Science
+## 🎓 I am an 2024 Engineering Grad majoring in Computer Science
 
 
 - 👯 I’m looking to contribute more to the **OpenSource Community**
