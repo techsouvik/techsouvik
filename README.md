@@ -1,7 +1,7 @@
 <!-- <center><a href="#"><img width="270" src="i.png" height="270%"/></a></center> -->
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Souvik</h1>
-<h3>I'm a Backend Developer🦾, currently learning video encoding🌏🖱</h3>
+<h3>I'm a Backend Developer🦾, currently exploring different backend technologies🌏🖱</h3>
 
 
 ## 🎓 I am an undergrad majoring in Computer Science
