@@ -1,76 +1,21 @@
-<!-- <center><a href="#"><img width="270" src="i.png" height="270%"/></a></center> -->
-
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Souvik</h1>
-<h3>I'm a Backend Developer🦾, currently exploring different backend technologies🌏🖱</h3>
+# 💫 About Me:
+🔭 I’m currently exploring new LLM Models<br>🌱 I’m currently learning Auth Tools, RBAC, LLM Integrations<br>💬 Ask me about Javascript, Node & Backend<br>📫 How to reach me souvikojha404@gmail.com<br>⚡ Fun fact I love to read/watch science fiction
 
 
-## 🎓 I am an 2024 Engineering Grad majoring in Computer Science
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souvikojha) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Souvikojha3) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=techsouvik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=techsouvik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=techsouvik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👯 I’m looking to contribute more to the **OpenSource Community**
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://souvikojha.com)** -->
-
-- 📫 How to reach me **souvikojha404@gmail.com**
-
--  👨‍💻 Currently learning **Javascript Framekorks** and working on **Cross-Platform Developemnt**.
-
-- ⚡ Fun fact **I love to read story books and watch fictional movies.**
-
-## 🚀 Languages and Tools:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=techsouvik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Tech Stacks
-
-
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=Html)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![MONGODB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
-
-
-## 🧑🏼‍💻 My Contributions
-
-<p>
-    <a href="https://github.com/techsouvik/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=techsouvik&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/techsouvik/github-readme-stats"><img alt="Souvik Ojha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=techsouvik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/techsouvik/github-readme-stats"><img alt="Souvik Ojha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techsouvik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-
-<a href="https://github.com/techsouvik/github-readme-activity-graph"><img alt="Souvik Ojha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=techsouvik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/souvik-ojha-3aa70320b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/SouvikOjha3"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/souvikojha/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/souvik.ojha.3388"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-
-</p>
-
----
-
-### Views Count
-![Visitor Count](https://profile-counter.glitch.me/{techsouvik}/count.svg)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
